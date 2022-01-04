@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "03fbe88d-7c63-4eaf-ba84-1b32947b69ed": {
+      "ProjectGuid": "03fbe88d-7c63-4eaf-ba84-1b32947b69ed",
+      "DisplayName": "DatingApi",
+      "ColorIndex": 0
+    },
+    "13ca9087-d0f0-4094-9a4d-769f93fc9872": {
+      "ProjectGuid": "13ca9087-d0f0-4094-9a4d-769f93fc9872",
+      "DisplayName": "DatingApp.Infrastructure",
+      "ColorIndex": 1
+    },
+    "1d1c3786-b01b-4e8e-9d0d-bed16506d6e4": {
+      "ProjectGuid": "1d1c3786-b01b-4e8e-9d0d-bed16506d6e4",
+      "DisplayName": "DatingApp.Core",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

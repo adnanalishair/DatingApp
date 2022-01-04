@@ -1,0 +1,12 @@
+C:\Users\Adnan\Desktop\Angular+Core\DatingApi\DatingApp.Infrastructure\bin\Debug\net6.0\DatingApp.Infrastructure.deps.json
+C:\Users\Adnan\Desktop\Angular+Core\DatingApi\DatingApp.Infrastructure\bin\Debug\net6.0\DatingApp.Infrastructure.dll
+C:\Users\Adnan\Desktop\Angular+Core\DatingApi\DatingApp.Infrastructure\bin\Debug\net6.0\ref\DatingApp.Infrastructure.dll
+C:\Users\Adnan\Desktop\Angular+Core\DatingApi\DatingApp.Infrastructure\bin\Debug\net6.0\DatingApp.Infrastructure.pdb
+C:\Users\Adnan\Desktop\Angular+Core\DatingApi\DatingApp.Infrastructure\obj\Debug\net6.0\DatingApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Adnan\Desktop\Angular+Core\DatingApi\DatingApp.Infrastructure\obj\Debug\net6.0\DatingApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adnan\Desktop\Angular+Core\DatingApi\DatingApp.Infrastructure\obj\Debug\net6.0\DatingApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Adnan\Desktop\Angular+Core\DatingApi\DatingApp.Infrastructure\obj\Debug\net6.0\DatingApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Adnan\Desktop\Angular+Core\DatingApi\DatingApp.Infrastructure\obj\Debug\net6.0\DatingApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Adnan\Desktop\Angular+Core\DatingApi\DatingApp.Infrastructure\obj\Debug\net6.0\DatingApp.Infrastructure.dll
+C:\Users\Adnan\Desktop\Angular+Core\DatingApi\DatingApp.Infrastructure\obj\Debug\net6.0\ref\DatingApp.Infrastructure.dll
+C:\Users\Adnan\Desktop\Angular+Core\DatingApi\DatingApp.Infrastructure\obj\Debug\net6.0\DatingApp.Infrastructure.pdb
